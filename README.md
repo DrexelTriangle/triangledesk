@@ -1,13 +1,11 @@
-# Superdesk
+# Triangledesk
 
 [![Tests](https://github.com/superdesk/superdesk/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/superdesk/superdesk/actions/workflows/tests.yml)
 
-Superdesk is an open source end-to-end news creation, production, curation,
+Triangledesk is a fork of Superdesk, an open source end-to-end news creation, production, curation,
 distribution and publishing platform developed and maintained by Sourcefabric
 with the sole purpose of making the best possible software for journalism. It
 is scaleable to suit news organizations of any size. See the [Superdesk website](https://www.superdesk.org) for more information.
-
-Looking to stay up to date on the latest news? [Subscribe](http://eepurl.com/bClQlD) to our monthly newsletter.
 
 The Superdesk server provides the API to process all client requests. The client
 provides the user interface. Server and client are separate applications using
@@ -16,15 +14,15 @@ different technologies.
 Find more information about the client configuration in the README file of the repo:
 [github.com/superdesk/superdesk-client-core](https://github.com/superdesk/superdesk-client-core)
 
-## Run Superdesk locally using Docker
+## Run Triangledesk locally using Docker
 
-You can start superdesk using the `docker-compose.yml` file:
+You can start Triangledesk using the `docker-compose.yml` file:
 
 ```sh
 $ docker-compose up -d
 ```
 
-This will start superdesk on http://localhost:8080. On the first run you also have to initialize
+This will start triangledesk on http://localhost:8080. On the first run you also have to initialize
 elastic/mongo and create a user:
 
 ```sh
@@ -97,4 +95,4 @@ Users, developers and development partners that have contributed to the Superdes
 
 ### License
 
-Superdesk is available under the [AGPL version 3](https://www.gnu.org/licenses/agpl-3.0.html) open source license.
+Triangledesk is available under the [AGPL version 3](https://www.gnu.org/licenses/agpl-3.0.html) open source license.
