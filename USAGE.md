@@ -32,8 +32,10 @@ Example desk view:
 - Published (not an actual desk)
   - Goes to wordpress, needs to be scheduled manually by someone, can be IT Director(s), or Visual Editor(s) since they have to put in photos at some point anyways.
  
-# Editing an article
-Every content item has a set of fields you can fill out. At the Triangle, we have three types of content items:
+# Editing content
+Watch the following video (which is set to timestamp 3:22) to learn the basics of the Superdesk content editor: https://youtu.be/-X9F6cFS0g8?t=212&si=eUBB40oq1zyzUDk4
+
+At the Triangle, we have three types of content items:
 
 ## Standard article
 - Sluglines are just for internal use while the article is in Superdesk
