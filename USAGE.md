@@ -38,29 +38,29 @@ Example desk view:
 # Editing content
 Watch the following video (which is set to timestamp 3:22) to learn the basics of the Superdesk content editor: https://youtu.be/-X9F6cFS0g8?t=212&si=eUBB40oq1zyzUDk4
 
-At the Triangle, we have three types of content items:
-
 ## Standard article
-For your normal text article. For now we will use this for comics as well, just put in an image and no text.
-
+Here are the fields in a standard text article.
 
 ![image](https://github.com/DrexelTriangle/triangledesk/assets/35565054/802a7267-0860-4061-a08b-d3f8fc46a97e)
 - Metadata
   - Mostly just for internal purposes while the article is still in Superdesk, and will not show up after it's published.
   - The `category` (i.e. section) should be autofilled to the correct one if you created your item in the correct desk.
   - `Editor's note` gets added onto body after everything else.
-  - You can add relevant `keywords` so it shows up better in search engines.
+  - You can add relevant `keywords` so the article shows up better in search engines.
 
 ![image](https://github.com/DrexelTriangle/triangledesk/assets/35565054/a1db12c4-6aca-469d-af6d-b41ed9d4af1c)
 - Content
   - `Headline`s are the actual title
   - You can put any author name you want in `byline`, it won't check against any list like Wordpress used to
-  - `Body HTML` is the main text of the article. The editor has basic formatting options
-  - Use the suggestions and comments features in the text editor, not on the right sidebar
+  - `Body HTML` is the main text of the article.
+  - Use the suggestions feature in the text editor (not on the right sidebar) to suggest edits
+  - ![image](https://github.com/DrexelTriangle/triangledesk/assets/35565054/03060f3b-1e7d-49fa-878a-69717bcd2afd)
+
+Tip: Open the editor in a new window for a less crowded screen. You might have to close the editor first if it's already open.
+
+![image](https://github.com/DrexelTriangle/triangledesk/assets/35565054/4a0d895c-17f6-4d53-b721-c456991a77b1)
 
 ## Media (WIP)
 - Image(s) can be placed anywhere in body, using the media button in the text editor
 - If a single image, it shows up as featured. idk with multiple
 - Image description is put under the image, use it for usual credit/copyright line
-
-## Comics (WIP)
