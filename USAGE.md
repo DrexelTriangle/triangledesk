@@ -1,5 +1,6 @@
 # Introduction
 Superdesk is an end-to-end news creation, production, curation, distribution and publishing platform. It is the pipeline that ideas and scoops go through to become published articles. The Triangle uses it as our production software, so all production processes are accomplished through Superdesk. It allows us to stay organized, automate things, and keep stuff clean on the technical side as well.
+
 To learn about the basics of Superdesk, watch this video: https://www.youtube.com/watch?v=MQ09P2Fz4Io&list=PLYCg0jl6TA9fuXCb2OIEQmFlVxCEXFY0S
 
 # Production process
@@ -13,14 +14,16 @@ To learn about the basics of Superdesk, watch this video: https://www.youtube.co
 Photography has a separate process that the Media department documents itself. The Chief Visual Editor(s) upload photos at any point during the production process.
 
 # Translating this to Desks and Stages
-Each desk's members can create and edit content on that desk. However, anyone from any desk can peer in to see what is going on.
+Each desk's members can create and edit content on that desk. However, anyone from any desk can peer in to see what is going on. Having different members in different desks helps enforce some of the rules of the production process.
+
 Example desk view:
 
 ![image](https://github.com/DrexelTriangle/triangledesk/assets/35565054/91f5d531-9e91-40fa-ab2e-048712486a30)
 - Section desks (there will be a separate one for each section)
   - Members of desk: that section's editor(s) and writers
   - `Authoring` stage that writers create articles in (or editors add submitted articles to)
-  - `Editing` stage that writers send articles to, and that editors make suggested edits in, then send to copy editing desk (writers don't have permissions to send to another desk)
+  - `Editing` stage that writers send articles to, and that editors make suggested edits in, then send to copy editing desk
+    - (writers don't have permissions to send content to a different desk, only a different stage)
 - Copy Editing desk
   - Members: essentially everyone in edboard. Chief copy editor, baby copy editors, and section editors (who are currently serving as baby copys)
   - `Baby Copy` stage. A baby copy opens an article to claim it, then sends it to chief copy's stage when they're done
@@ -38,12 +41,26 @@ Watch the following video (which is set to timestamp 3:22) to learn the basics o
 At the Triangle, we have three types of content items:
 
 ## Standard article
-- Sluglines are just for internal use while the article is in Superdesk
-- Headlines are the actual title
-- You can put in any author name you want, it won't check against any list like Wordpress used to
-- Use the suggestions and comments features in the text editor, not on the right sidebar
-- Abstract gets added onto body before everything else
-- Editor's note gets added onto body after everything else
-- Image(s) can be placed anywhere in body
+For your normal text article. For now we will use this for comics as well, just put in an image and no text.
+
+
+![image](https://github.com/DrexelTriangle/triangledesk/assets/35565054/802a7267-0860-4061-a08b-d3f8fc46a97e)
+- Metadata
+  - Mostly just for internal purposes while the article is still in Superdesk, and will not show up after it's published.
+  - The `category` (i.e. section) should be autofilled to the correct one if you created your item in the correct desk.
+  - `Editor's note` gets added onto body after everything else.
+  - You can add relevant `keywords` so it shows up better in search engines.
+
+![image](https://github.com/DrexelTriangle/triangledesk/assets/35565054/a1db12c4-6aca-469d-af6d-b41ed9d4af1c)
+- Content
+  - `Headline`s are the actual title
+  - You can put any author name you want in `byline`, it won't check against any list like Wordpress used to
+  - `Body HTML` is the main text of the article. The editor has basic formatting options
+  - Use the suggestions and comments features in the text editor, not on the right sidebar
+
+## Media (WIP)
+- Image(s) can be placed anywhere in body, using the media button in the text editor
 - If a single image, it shows up as featured. idk with multiple
 - Image description is put under the image, use it for usual credit/copyright line
+
+## Comics (WIP)
