@@ -74,3 +74,11 @@ Tip: Open the editor in a new window for a less crowded screen. You might have t
 - Image(s) can be placed anywhere in body, using the media button in the text editor
 - If a single image, it shows up as featured. idk with multiple
 - Image description is put under the image, use it for usual credit/copyright line
+
+## Correcting Published Articles
+If an article was published with incorrect or inaccurate information, you can make revisions from within Superdesk. Select the article and click `Correct item` in the `Actions` menu:
+
+![triangledesk_correction](https://github.com/DrexelTriangle/triangledesk/assets/35565054/20f41b45-7c25-4fce-bf56-be059fe72545)
+
+
+Once you make your edits and send the correction, it will automatically get updated on the Triangle website.
