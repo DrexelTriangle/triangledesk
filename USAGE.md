@@ -22,6 +22,8 @@ Example desk view:
 - Section desks (there will be a separate one for each section)
   - Members of desk: that section's editor(s) and writers
   - `Authoring` stage that writers create articles in (or editors add submitted articles to)
+    - Section editors should add a stub (title but no body) for each article in a publication the Monday or Tuesday night before that publication, and add it to the highlight list for that publication.
+    - ![highlight-article-annotated](https://github.com/DrexelTriangle/triangledesk/assets/35565054/932a75f9-7e41-4e81-ac06-a47f6db1262f)
   - `Editing` stage that writers send articles to, and that editors make suggested edits in, then send to copy editing desk
     - (writers don't have permissions to send content to a different desk, only a different stage)
 - Copy Editing desk
@@ -35,6 +37,11 @@ Example desk view:
   - This is the only desk that content can be published from.
 - Published (not an actual desk)
   - Goes to wordpress, needs to be scheduled manually by someone, can be IT Director(s), or Visual Editor(s) since they have to put in photos at some point anyways.
+ 
+An article can be sent back to a previous stage or desk, if needed. E.g. if the EIC or ME needs a fact verified, they can state that in a comment or annotation and send the article back to the copy editing desk.
+
+## The Highlight List
+Highlight lists allow us to group certain articles together. When the publication calendar for a term is finalized, all the highlight lists for that term should be created. When editors are adding stubs, they should add to the appropriate highlight list. Highlight lists can be viewed using the star icon on the left sidebar menu.
  
 # Editing content
 Watch the following video (which is set to timestamp 3:22) to learn the basics of the Superdesk content editor: https://youtu.be/-X9F6cFS0g8?t=212&si=eUBB40oq1zyzUDk4
