@@ -19,30 +19,27 @@ Each desk's members can create and edit content on that desk. However, anyone fr
 Example desk view:
 
 ![triangledesk_desk_view](https://github.com/DrexelTriangle/triangledesk/assets/35565054/a43f9802-0c13-4ab8-b948-dcc22f8ef8df)
-- Section desks (there will be a separate one for each section)
-  - Members of desk: that section's editor(s) and writers
-  - `Authoring` stage that writers create articles in (or editors add submitted articles to)
-    - Section editors should add a stub (title but no body) for each article in a publication the Monday or Tuesday night before that publication, and add it to the highlight list for that publication.
-    - ![highlight-article-annotated](https://github.com/DrexelTriangle/triangledesk/assets/35565054/932a75f9-7e41-4e81-ac06-a47f6db1262f)
-  - `Editing` stage that writers send articles to, and that editors make suggested edits in, then send to copy editing desk
-    - (writers don't have permissions to send content to a different desk, only a different stage)
-- Copy Editing desk
-  - Members: essentially everyone in edboard. Chief copy editor, baby copy editors, and section editors (who are currently serving as baby copys)
-  - `Baby Copy` stage. A baby copy opens an article to claim it, then sends it to chief copy's stage when they're done
-  - `Chief Copy` stage
-  - `Section Editor` stage, for second round edits
-- Final Review desk
-  - Members: EIC and Managing Editor
-  - Just one `Final Review` stage. EIC and Managing Editor do their edits and accept/deny everyone else's edits
-  - This is the only desk that content can be published from.
-- Published (not an actual desk)
-  - Goes to wordpress, needs to be scheduled manually by someone, can be IT Director(s), or Visual Editor(s) since they have to put in photos at some point anyways.
+
+## Article flow
+
+![Triangledesk-Stages](https://github.com/DrexelTriangle/triangledesk/assets/35565054/2995fe4f-539e-4832-bdb6-d1106264f9ee)
+
+Once an article is sent to Wordpress, it needs to be scheduled manually by someone. This can be the IT Director(s), or the Visual Editor(s) since they have to put in photos at some point anyways.
  
 An article can be sent back to a previous stage or desk, if needed. E.g. if the EIC or ME needs a fact verified, they can state that in a comment or annotation and send the article back to the copy editing desk.
 
-## The Highlight List
+~~Note: writers don't have permissions to send content to a different desk, only a different stage~~
+
+## Pre-production
+Section editors should add a stub (title but no body) for each article in a publication the Monday or Tuesday night before that publication, then add it to the highlight list for that publication.
+
+![highlight-article-annotated](https://github.com/DrexelTriangle/triangledesk/assets/35565054/932a75f9-7e41-4e81-ac06-a47f6db1262f)
+
+### The Highlight List
 Highlight lists allow us to group certain articles together. When the publication calendar for a term is finalized, all the highlight lists for that term should be created. When editors are adding stubs, they should add to the appropriate highlight list. Highlight lists can be viewed using the star icon on the left sidebar menu.
- 
+
+![open-highlight-list](https://github.com/DrexelTriangle/triangledesk/assets/35565054/79581f55-88f5-455c-9175-3e6a369e03b8)
+
 # Editing content
 Watch the following video (which is set to timestamp 3:22) to learn the basics of the Superdesk content editor: https://youtu.be/-X9F6cFS0g8?t=212&si=eUBB40oq1zyzUDk4
 
