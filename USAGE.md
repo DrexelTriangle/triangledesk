@@ -35,8 +35,10 @@ Section editors should add a stub (title but no body) for each article in a publ
 
 ![highlight-article-annotated](https://github.com/DrexelTriangle/triangledesk/assets/35565054/932a75f9-7e41-4e81-ac06-a47f6db1262f)
 
+If an article is cut, make sure to remove the highlight, and add it to the next cycle's highlight when you're preparing for it.
+
 ### The Highlight List
-Highlight lists allow us to group certain articles together. When the publication calendar for a term is finalized, all the highlight lists for that term should be created. When editors are adding stubs, they should add to the appropriate highlight list. Highlight lists can be viewed using the star icon on the left sidebar menu.
+Highlight lists allow us to group certain articles together, in this case the articles in the same pubication. When the publication calendar for a term is finalized, all the highlight lists for that term should be created. When editors are adding stubs, they should add to the appropriate highlight list. Highlight lists can be viewed using the star icon on the left sidebar menu.
 
 ![open-highlight-list](https://github.com/DrexelTriangle/triangledesk/assets/35565054/79581f55-88f5-455c-9175-3e6a369e03b8)
 
